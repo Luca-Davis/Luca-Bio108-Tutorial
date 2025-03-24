@@ -1,2 +1,2 @@
 # Luca-Bio108-Tutorial
-Repository to hold Bio-108 Capstone
+This is my GitHub page to create my capstone presentation for Bio-108!
